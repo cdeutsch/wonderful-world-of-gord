@@ -9,12 +9,12 @@
 **Monitor**
 
 - https://www.lg.com/us/monitors/lg-27UD88-W-4k-uhd-led-monitor - USB-C port powers pixelbook (30-40w?) and pixelbook does 4k display over same cable
-~~~~
+
 **Mouse**
 
-  https://www.logitech.com/en-gb/product/mx-master-2s-flow
+- https://www.logitech.com/en-gb/product/mx-master-2s-flow
 
-K**eyboard**
+**Keyboard**
 
 - [wasd v2](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-104-key-custom-mechanical-keyboard.html)
 
