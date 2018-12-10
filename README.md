@@ -26,7 +26,9 @@
 - i7-7820X (8-core)
 - 32GB ram (some fast version who knows, i’d have to bend over and look in the case)
 - Whatever samsung SSD is the best, i have that
-
+- [BEKANT](https://www.ikea.com/gb/en/products/desks/office-desks/bekant-corner-desk-right-sit-stand-oak-veneer-black-spr-49061167/) ikea up/down/stand/sit desk
+- Oculus rift with touch controllers - just for Beat Saber, PSVR is better for everything else 
+- Samsung laser printer, inkjet is out of my life. https://www.amazon.co.uk/gp/product/B010NE2HGW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1 
 
 **Desktop Audio**
 
@@ -35,6 +37,7 @@
 - [SMSL SA-50 2x50W D-AMP TDA7492 Hi-Fi Stereo Amplifier + Power Adapter - Sliver](https://www.amazon.co.uk/gp/product/B008Y7S198/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - amps the DAC to the speakers, provides enough wattage for my specific speakers
 - [Rode NT-USB Microphone](https://www.amazon.co.uk/gp/product/B00KQPGRRE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) - used to use the Blue Yeti, but that broke. this was on sale so it was cheaper and the audio quality is better
 - [Sennheiser Momentum 2.0 Over-Ear Headphones (Android) - Ivory](https://www.amazon.co.uk/gp/product/B00RGH7ALM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+- Tidal subscription because nothing else gets me 96khz 24-bit music
 
 **Home Audio**
 
