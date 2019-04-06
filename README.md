@@ -16,7 +16,8 @@
 
 **Keyboard**
 
-- [wasd v2](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-104-key-custom-mechanical-keyboard.html)
+- ~~[wasd v2](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-104-key-custom-mechanical-keyboard.html)~~
+- [Vortex race 3](https://www.amazon.co.uk/Vortex-Mechanical-Keyboard-Cherry-Switches/dp/B078139ZSW) DSA keyboard (keys all same height), wonderful aluminium base softens the noise generated. really nice to type on, programmable to boot.
 
 **Computer**
 
@@ -27,8 +28,9 @@
 - 32GB ram (some fast version who knows, i’d have to bend over and look in the case)
 - Whatever samsung SSD is the best, i have that
 - [BEKANT](https://www.ikea.com/gb/en/products/desks/office-desks/bekant-corner-desk-right-sit-stand-oak-veneer-black-spr-49061167/) ikea up/down/stand/sit desk
-- Oculus rift with touch controllers - just for Beat Saber, PSVR is better for everything else 
-- Samsung laser printer, inkjet is out of my life. https://www.amazon.co.uk/gp/product/B010NE2HGW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1 
+- Oculus rift with touch controllers - just for Beat Saber, PSVR is better for everything else
+- Samsung laser printer, inkjet is out of my life. https://www.amazon.co.uk/gp/product/B010NE2HGW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+- [MX Master 2s](https://www.amazon.co.uk/gp/product/B07258RYLG)
 
 **Desktop Audio**
 
@@ -41,17 +43,19 @@
 
 **Home Audio**
 
-  - [Q Acoustics 3050 Floorstanding Speakers (Pair)](https://www.qacoustics.co.uk/q-acoustics-3050-floorstanding-speakers-pair.html)
-  - [Q Acoustics Concept Centre](https://www.qacoustics.co.uk/q-acoustics-concept-centre-channel-speaker.html)
-  - [Denon Avrx2200 Blk](https://www.denon.co.uk/uk/product/homecinema/avreceiver/avrx2200w) - 4kpassthrough, they do an updated one that does 4k without passthrough. amazing audio.
-  - [MEE audio Pinnacle P1](https://www.meeaudio.com/P1) - in ear earphones, with detachable cables - flat sound response so really high quality
+- [Q Acoustics 3050 Floorstanding Speakers (Pair)](https://www.qacoustics.co.uk/q-acoustics-3050-floorstanding-speakers-pair.html)
+- [Q Acoustics Concept Centre](https://www.qacoustics.co.uk/q-acoustics-concept-centre-channel-speaker.html)
+- [Denon Avrx2200 Blk](https://www.denon.co.uk/uk/product/homecinema/avreceiver/avrx2200w) - 4kpassthrough, they do an updated one that does 4k without passthrough. amazing audio.
+- [MEE audio Pinnacle P1](https://www.meeaudio.com/P1) - in ear earphones, with detachable cables - flat sound response so really high quality
 
 **Gaming**
 
+- Playstation 4 P4o
 - [Scuf Infinity4ps](https://scufgaming.com/s/infinity4ps/)
 - [Sony Platinum Headset](https://www.playstation.com/en-gb/explore/accessories/platinum-wireless-headset/)
 - [GPDXD Plus](https://www.gpdxd.com/)
-- [8BitDo wireless controllers](http://www.8bitdo.com/)
+- [8BitDo wireless controllers](http://www.8bitdo.com/) primaraly use this with emulator apps installed on my Android TV
+- Nintendo Switch - barely gets used but I have one
 
 **Misc**
 
@@ -60,7 +64,7 @@
 - [Cuisinart Professional Burr Coffee Mill](https://www.amazon.co.uk/gp/product/B0007P3LE0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 - [Anova Culinary Sous Vide Precision Cooker](https://www.amazon.co.uk/gp/product/B01MZ6Q45C/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 - [Convertible Wireless Charger](https://www.samsung.com/uk/mobile-accessories/convertible-wireless-charger-pg950/EP-PG950BBEGWW/)
-[](https://www.samsung.com/uk/mobile-accessories/convertible-wireless-charger-pg950/EP-PG950BBEGWW/)## Software
+  [](https://www.samsung.com/uk/mobile-accessories/convertible-wireless-charger-pg950/EP-PG950BBEGWW/)## Software
 - Windows 10, whatever, it works. it’s more stable than OSX and Linux.
 - VMWare Workstation,
   - Ubuntu. have an Axiom container via lxd
@@ -71,5 +75,8 @@
 - Photoshop
 - Lightroom
 - ChromeOS
-
-
+- Samsung S9+
+- [Stream Deck Mini](https://www.elgato.com/en/gaming/stream-deck-mini)
+- Google Wifi
+- [RAVPower 30W usb-C battery pack](https://www.amazon.co.uk/gp/product/B06XTMK9H2) - charges pixelbooks/macbook airs over usb-c even whilst in use
+- [Sony A6400 Mirrorless camera](https://www.sony.co.uk/electronics/interchangeable-lens-cameras/ilce-6400) - fantastic camera for a great price, best auto-focus around (today, april-2019), everything just looks great. Bad at video but I don't care about that
